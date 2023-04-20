@@ -21,10 +21,14 @@
   
 I am a begginer developer from South of Korea 🇰🇷. 
   
-If you want to contact me, please leave me a message!
+If you want to contact me, please send me an e-mail!
+
+If you want to know about me, please come in my Notion Blog
+👉 https://www.notion.so/9987f1973ff04127ac88c91fc247d1ad
 
 
 ### 💫 Experience
+- **Solutech Co.,Ltd** - Specializing in the Construction of a Recording system by Developing Front&Back-end Web Site *(Mar 2023 - )*
 - **Mirae IT** - Android App and Web Developer Course *(Aug 2022 - Jan 2023)*
 - **Major** - Information and Communication Engineering *(Mar 2018 - Jan 2022)*
 
@@ -33,10 +37,10 @@ If you want to contact me, please leave me a message!
 - Web Develop
 
 ### ✨ Summary
-- I'm currently learning Android App and Web Develop Course
+- I'm currently working at Solutech Co.,Ltd by Web Developer
 
 ### 💻 Language
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/> | <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/> <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=CodeIgniter&logoColor=white"/> | <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
 ### 🌈Github Stats  
 <table><tr><td valign="top" width="50%">
